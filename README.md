@@ -23,6 +23,7 @@ Features :
           - Uses pre-trained image recognition models like VGG or ResNet to extract features from images.
           - Employs a recurrent neural network (RNN) or transformer-based model to generate captions for those images.
 
-    Each project demonstrates practical applications of Python in Artificial Intelligence enhancing both technical skills and understanding of these domains.
+
+Each project demonstrates practical applications of Python in Artificial Intelligence enhancing both technical skills and understanding of these domains.
 
 
